@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python explainer_gae_graph.py --distillation=dataset/cpr_top20 --output=cpr_top20 --dataset=dataset/cpr --gpu -b 128 --weighted --gae3 --loss=mse --early_stop --train_on_positive_label --epochs=300 --lr=0.01
