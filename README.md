@@ -2,9 +2,10 @@
 
 This is the implementation of [Supporting Medical Relation Extraction via Causality-Pruned Semantic
 Dependency Forest](https://arxiv.org/abs/2208.13472) at COLING 2022.
-You can download the datasets and our pre-trained model in [here](https://drive.google.com/drive/folders/1m3wlxXcMLBIbYJ9foZfC8uA_dAMKoTPW?usp=sharing)
-The code includes two datasets: CPR and PGR, both of them is avilable `./dataset`. The PubMed dataset is available in https://github.com/Cartus/AGGCN/tree/master/PubMed.
 
+You can download the datasets and our pre-trained model in [here](https://drive.google.com/drive/folders/1m3wlxXcMLBIbYJ9foZfC8uA_dAMKoTPW?usp=sharing).
+
+The code includes two datasets: CPR and PGR, both of them is avilable in `./dataset`. The PubMed dataset is available in https://github.com/Cartus/AGGCN/tree/master/PubMed.
 
 ## Requirements
 
